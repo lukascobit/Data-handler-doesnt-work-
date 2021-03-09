@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(227, 255, 246);
+}
+.Heading{
+    text-align: center;
+    text-decoration: underline rgb(48, 53, 39);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
